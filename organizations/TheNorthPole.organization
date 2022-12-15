@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<organization:Organization xmlns:organization="http://documentation.bonitasoft.com/organization-xml-schema/1.1" name="TheNorthPole">
+  <customUserInfoDefinitions/>
+  <users>
+    <user userName="santa.claus">
+      <firstName>Santa</firstName>
+      <lastName>Claus</lastName>
+      <title>Mr</title>
+      <jobTitle>Santa Claus</jobTitle>
+      <personalData/>
+      <professionalData>
+        <email>santa.claus@northpole.com</email>
+        <phoneNumber></phoneNumber>
+        <faxNumber></faxNumber>
+        <building></building>
+        <address>1 Main Street</address>
+        <zipCode>H0 H0 H0</zipCode>
+        <city>The North Pole</city>
+        <state>The North Pole</state>
+        <country>The North Pole</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="sparky.elf">
+      <firstName>Sparky</firstName>
+      <lastName>The Elf</lastName>
+      <title>Mrs</title>
+      <jobTitle>Compensation specialist</jobTitle>
+      <manager>helen.claus</manager>
+      <personalData/>
+      <professionalData>
+        <email>sparky.elf@northpole.com</email>
+        <address>1 Main Street</address>
+        <zipCode>H0 H0 H0</zipCode>
+        <city>The North Pole</city>
+        <state>The North Pole</state>
+        <country>The North Pole</country>
+      </professionalData>
+      <metaDatas>
+        <metaData name="Skype ID"/>
+        <metaData name="Twitter"/>
+        <metaData name="Facebook"/>
+      </metaDatas>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="helen.claus">
+      <firstName>Helen</firstName>
+      <lastName>Claus</lastName>
+      <title>Mrs</title>
+      <jobTitle>Human resource manager</jobTitle>
+      <manager>william.jobs</manager>
+      <personalData/>
+      <professionalData>
+        <email>helen.claus@northpole.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>1 Main Street</address>
+        <zipCode>H0 H0 H0</zipCode>
+        <city>The North Pole</city>
+        <state>The North Pole</state>
+        <country>The North Pole</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="snowflake.elf">
+      <firstName>Snowflake</firstName>
+      <lastName>The Elf</lastName>
+      <title>Mr</title>
+      <jobTitle>Human resources benefits</jobTitle>
+      <manager>santa.claus</manager>
+      <personalData/>
+      <professionalData>
+        <email>snowflake.elf@northpole.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>1 Main Street</address>
+        <zipCode>H0 H0 H0</zipCode>
+        <city>The North Pole</city>
+        <state>The North Pole</state>
+        <country>The North Pole</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="zachary.williamson">
+      <firstName>Zachary</firstName>
+      <lastName>Williamson</lastName>
+      <title>Mr</title>
+      <jobTitle></jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>zachary.williamson@bonitachild.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="patrick.gardenier">
+      <firstName>Patrick</firstName>
+      <lastName>Gardenier</lastName>
+      <title>Mr</title>
+      <jobTitle></jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>patrick.gardenier@bonitachild.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="sparky.reindeer">
+      <firstName>Sparky</firstName>
+      <lastName>The Reindeer</lastName>
+      <title>Mrs</title>
+      <jobTitle>Accountant</jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>sparky.reindeer@northpole.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>1 Main Street</address>
+        <zipCode>H0 H0 H0</zipCode>
+        <city>The North Pole</city>
+        <state>The North Pole</state>
+        <country>The North Pole</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="rodolphe.reindeer">
+      <firstName>Rodolphe</firstName>
+      <lastName>The Reindeer</lastName>
+      <title>Mr</title>
+      <jobTitle>Financial planning manager</jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>rodolphe.reindeer@northpole.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>1 Main Street</address>
+        <zipCode>H0 H0 H0</zipCode>
+        <city>The North Pole</city>
+        <state>The North Pole</state>
+        <country>The North Pole</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="jan.elf">
+      <firstName>Jan</firstName>
+      <lastName>The Elf</lastName>
+      <title>Mr</title>
+      <jobTitle>Infrastucture specialist</jobTitle>
+      <manager>favio.riviera</manager>
+      <personalData/>
+      <professionalData>
+        <email>jan.elf@northpole.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>1 Main Street</address>
+        <zipCode>H0 H0 H0</zipCode>
+        <city>The North Pole</city>
+        <state>The North Pole</state>
+        <country>The North Pole</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="thalia.petit">
+      <firstName>Thalia</firstName>
+      <lastName>Petit</lastName>
+      <title>Mrs</title>
+      <jobTitle>Girl</jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>thalia.petit@bonitachild.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="frosty.snowman">
+      <firstName>Frosty</firstName>
+      <lastName>The Snowman</lastName>
+      <title>Mr</title>
+      <jobTitle>Vice President of Marketing</jobTitle>
+      <manager>santa.claus</manager>
+      <personalData/>
+      <professionalData>
+        <email>frosty.snowman@northpole.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>1 Main Street</address>
+        <zipCode>H0 H0 H0</zipCode>
+        <city>The North Pole</city>
+        <state>The North Pole</state>
+        <country>The North Pole</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="claude.elf">
+      <firstName>Claude</firstName>
+      <lastName>The Elf</lastName>
+      <title>Mrs</title>
+      <jobTitle>Chief Technical Officer</jobTitle>
+      <manager>william.jobs</manager>
+      <personalData/>
+      <professionalData>
+        <email>claude.elf@northpole.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>1 Main Street</address>
+        <zipCode>H0 H0 H0</zipCode>
+        <city>The North Pole</city>
+        <state>The North Pole</state>
+        <country>The North Pole</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="blink.theelf">
+      <firstName>Blink</firstName>
+      <lastName>The Elf</lastName>
+      <title>Mr</title>
+      <jobTitle>Engineer</jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>blink.theelf@northpole.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>1 Main Street</address>
+        <zipCode>H0 H0 H0</zipCode>
+        <city>The North Pole</city>
+        <state>The North Pole</state>
+        <country>The North Pole</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="joseph.elf">
+      <firstName>Joseph</firstName>
+      <lastName>The Elf</lastName>
+      <title>Mr</title>
+      <jobTitle>Engineer</jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>joseph.elf@northpole.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>1 Main Street</address>
+        <zipCode>H0 H0 H0</zipCode>
+        <city>The North Pole</city>
+        <state>The North Pole</state>
+        <country>The North Pole</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="mauro.elf">
+      <firstName>Mauro</firstName>
+      <lastName>The Elf</lastName>
+      <title>Mr</title>
+      <jobTitle>Consultant</jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>mauro.elf@northpole.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>1 Main Street</address>
+        <zipCode>H0 H0 H0</zipCode>
+        <city>The North Pole</city>
+        <state>The North Pole</state>
+        <country>The North Pole</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="thomas.wallis">
+      <firstName>Thomas</firstName>
+      <lastName>Wallis</lastName>
+      <title>Mr</title>
+      <jobTitle></jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>thomas.wallis@bonitachild.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>1 Main Street</address>
+        <zipCode>H0 H0 H0</zipCode>
+        <city>The North Pole</city>
+        <state>The North Pole</state>
+        <country>The North Pole</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="anthony.nichols">
+      <firstName>Anthony</firstName>
+      <lastName>Nichols</lastName>
+      <title>Mr</title>
+      <jobTitle></jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>anthony.nichols@bonitachild.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="misa.kumagai">
+      <firstName>Misa</firstName>
+      <lastName>Kumagai</lastName>
+      <title>Mrs</title>
+      <jobTitle>Account manager</jobTitle>
+      <manager>daniela.angelo</manager>
+      <personalData/>
+      <professionalData>
+        <email>misa.kumagai@bonitachild.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="norio.yamazaki">
+      <firstName>Norio</firstName>
+      <lastName>Yamazaki</lastName>
+      <title>Mr</title>
+      <jobTitle></jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>norio.yamazaki@bonitachild.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>Renwick Drive</address>
+        <zipCode>19108</zipCode>
+        <city>Philadelphia</city>
+        <state>PA</state>
+        <country>United States</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+    <user userName="pickles.elf">
+      <firstName>Pickles</firstName>
+      <lastName>The Elf</lastName>
+      <title>Mrs</title>
+      <jobTitle>Account manager</jobTitle>
+      <manager></manager>
+      <personalData/>
+      <professionalData>
+        <email>pickles.elf@northpole.com</email>
+        <phoneNumber>484-302-5000</phoneNumber>
+        <faxNumber>484-302-0000</faxNumber>
+        <building>70</building>
+        <address>1 Main Street</address>
+        <zipCode>H0 H0 H0</zipCode>
+        <city>The North Pole</city>
+        <state>The North Pole</state>
+        <country>The North Pole</country>
+      </professionalData>
+      <metaDatas/>
+      <enabled>true</enabled>
+      <password encrypted="false">bpm</password>
+      <customUserInfoValues/>
+    </user>
+  </users>
+  <roles>
+    <role name="staff">
+      <displayName>Santa Staff</displayName>
+      <description></description>
+    </role>
+    <role name="Validator">
+      <displayName>Gift Validator</displayName>
+    </role>
+    <role name="Child">
+      <displayName>Child</displayName>
+    </role>
+    <role name="Assigner">
+      <displayName>Assigner</displayName>
+    </role>
+  </roles>
+  <groups>
+    <group name="northpole">
+      <displayName>The North Pole</displayName>
+      <description>This group represents the northpole department of the northpole organization</description>
+    </group>
+    <group name="err" parentPath="/northpole">
+      <displayName>Elves &amp; Reindeers Resources</displayName>
+      <description>This group represents the human resources department of the northpole organization</description>
+    </group>
+    <group name="finance" parentPath="/northpole">
+      <displayName>Finance</displayName>
+      <description>This group represents the finance department of the northpole organization</description>
+    </group>
+    <group name="it" parentPath="/northpole">
+      <displayName>Infrastructure</displayName>
+      <description>This group represents the infrastructure department of the northpole organization</description>
+    </group>
+    <group name="marketing" parentPath="/northpole">
+      <displayName>Marketing</displayName>
+      <description>This group represents the marketing department of the northpole organization</description>
+    </group>
+    <group name="production" parentPath="/northpole">
+      <displayName>Gift Production</displayName>
+      <description>This group represents the production department of the northpole organization</description>
+    </group>
+    <group name="delivery" parentPath="/northpole">
+      <displayName>Gift Delivery</displayName>
+      <description>This group represents the sales department of the northpole organization</description>
+    </group>
+    <group name="rd" parentPath="/northpole/production">
+      <displayName>Research &amp; Development</displayName>
+      <description>This group represents the research &amp; development department of the northpole organization</description>
+    </group>
+    <group name="services" parentPath="/northpole/production">
+      <displayName>Services</displayName>
+      <description>This group represents the services department of the northpole organization</description>
+    </group>
+    <group name="children">
+      <displayName>Children</displayName>
+    </group>
+    <group name="americas" parentPath="/children">
+      <displayName>Americas</displayName>
+    </group>
+    <group name="europe" parentPath="/children">
+      <displayName>Europe</displayName>
+    </group>
+    <group name="asia" parentPath="/children">
+      <displayName>Asia</displayName>
+    </group>
+    <group name="australia" parentPath="/children">
+      <displayName>Australia</displayName>
+    </group>
+    <group name="africa" parentPath="/children">
+      <displayName>Africa</displayName>
+    </group>
+  </groups>
+  <memberships>
+    <membership>
+      <userName>santa.claus</userName>
+      <roleName>Validator</roleName>
+      <groupName>production</groupName>
+      <groupParentPath>/northpole</groupParentPath>
+    </membership>
+    <membership>
+      <userName>sparky.elf</userName>
+      <roleName>staff</roleName>
+      <groupName>err</groupName>
+      <groupParentPath>/northpole</groupParentPath>
+    </membership>
+    <membership>
+      <userName>helen.kelly</userName>
+      <roleName>Validator</roleName>
+      <groupName>err</groupName>
+      <groupParentPath>/northpole</groupParentPath>
+    </membership>
+    <membership>
+      <userName>snowflake.elf</userName>
+      <roleName>Validator</roleName>
+      <groupName>err</groupName>
+      <groupParentPath>/northpole</groupParentPath>
+    </membership>
+    <membership>
+      <userName>zachary.williamson</userName>
+      <roleName>Child</roleName>
+      <groupName>americas</groupName>
+      <groupParentPath>/children</groupParentPath>
+    </membership>
+    <membership>
+      <userName>patrick.gardenier</userName>
+      <roleName>Child</roleName>
+      <groupName>australia</groupName>
+      <groupParentPath>/children</groupParentPath>
+    </membership>
+    <membership>
+      <userName>sparky.reindeer</userName>
+      <roleName>staff</roleName>
+      <groupName>delivery</groupName>
+      <groupParentPath>/northpole</groupParentPath>
+    </membership>
+    <membership>
+      <userName>rodolphe.reindeer</userName>
+      <roleName>staff</roleName>
+      <groupName>delivery</groupName>
+      <groupParentPath>/northpole</groupParentPath>
+    </membership>
+    <membership>
+      <userName>jan.elf</userName>
+      <roleName>staff</roleName>
+      <groupName>it</groupName>
+      <groupParentPath>/northpole</groupParentPath>
+    </membership>
+    <membership>
+      <userName>thalia.petit</userName>
+      <roleName>Child</roleName>
+      <groupName>europe</groupName>
+      <groupParentPath>/children</groupParentPath>
+    </membership>
+    <membership>
+      <userName>frosty.snowman</userName>
+      <roleName>staff</roleName>
+      <groupName>marketing</groupName>
+      <groupParentPath>/northpole</groupParentPath>
+    </membership>
+    <membership>
+      <userName>claude.elf</userName>
+      <roleName>staff</roleName>
+      <groupName>production</groupName>
+      <groupParentPath>/northpole</groupParentPath>
+    </membership>
+    <membership>
+      <userName>blink.theelf</userName>
+      <roleName>staff</roleName>
+      <groupName>production</groupName>
+      <groupParentPath>/northpole</groupParentPath>
+    </membership>
+    <membership>
+      <userName>joseph.elf</userName>
+      <roleName>staff</roleName>
+      <groupName>finance</groupName>
+      <groupParentPath>/northpole</groupParentPath>
+    </membership>
+    <membership>
+      <userName>mauro.elf</userName>
+      <roleName>staff</roleName>
+      <groupName>services</groupName>
+      <groupParentPath>/northpole/production</groupParentPath>
+    </membership>
+    <membership>
+      <userName>thomas.wallis</userName>
+      <roleName>Child</roleName>
+      <groupName>africa</groupName>
+      <groupParentPath>/children</groupParentPath>
+    </membership>
+    <membership>
+      <userName>misa.kumagai</userName>
+      <roleName>Child</roleName>
+      <groupName>asia</groupName>
+      <groupParentPath>/children</groupParentPath>
+    </membership>
+    <membership>
+      <userName>norio.yamazaki</userName>
+      <roleName>Child</roleName>
+      <groupName>asia</groupName>
+      <groupParentPath>/children</groupParentPath>
+    </membership>
+    <membership>
+      <userName>pickles.elf</userName>
+      <roleName>staff</roleName>
+      <groupName>rd</groupName>
+      <groupParentPath>/northpole/production</groupParentPath>
+    </membership>
+    <membership>
+      <userName>anthony.nichols</userName>
+      <roleName>Child</roleName>
+      <groupName>europe</groupName>
+      <groupParentPath>/children</groupParentPath>
+    </membership>
+    <membership>
+      <userName>santa.claus</userName>
+      <roleName>staff</roleName>
+      <groupName>delivery</groupName>
+      <groupParentPath>/northpole</groupParentPath>
+    </membership>
+    <membership>
+      <userName>santa.claus</userName>
+      <roleName>Assigner</roleName>
+      <groupName>northpole</groupName>
+    </membership>
+    <membership>
+      <userName>helen.claus</userName>
+      <roleName>Validator</roleName>
+      <groupName>northpole</groupName>
+    </membership>
+  </memberships>
+</organization:Organization>
